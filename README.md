@@ -13,4 +13,4 @@
 - 🤔 Not looking for help at this time
 - 💬 Ask me about RF Test System Creation and RF Test Automation
 - 📫 How to reach me: jhannah@rftms.com, +1 (972) 948-7619
-- ⚡ Fun fact: I ride a customm Indian Roadmaster trike
+- ⚡ Fun fact: I ride a custom Indian Roadmaster trike
