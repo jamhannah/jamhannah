@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello from James Hannah 👋
 
-<!--
-**jamhannah/jamhannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Setting Up GitHub
+- 🌱 I’m currently learning: 
+   - [ ] Git and GitHub
+   - [ ] CI/CD, including PowerShell and Jenkins
+   - [ ] .NET6 and C# 10
+   - [ ] OO Design Patterns
+   - [ ] Functional Programming in C#
+   - [ ] NTest and Unit Testing
+   - [ ] NLog and Logging
+- 👯 No collaborations at this time
+- 🤔 Not looking for help at this time
+- 💬 Ask me about RF Test System Creation and RF Test Automation
+- 📫 How to reach me: jhannah@rftms.com, +1 (972) 948-7619
+- ⚡ Fun fact: I ride a customm Indian Roadmaster trike
