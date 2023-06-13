@@ -7,7 +7,7 @@
    - [ ] .NET6 and C# 10
    - [ ] OO Design Patterns
    - [ ] Functional Programming in C#
-   - [ ] NTest and Unit Testing
+   - [ ] Xunit and Unit Testing
    - [ ] NLog and Logging
 - 👯 No collaborations at this time
 - 🤔 Not looking for help at this time
